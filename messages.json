@@ -1,5 +1,5 @@
 [{
-	"title": "Water cooler on 5th floor is broken",
+	"title": "Water cooler on 7th floor is broken",
 	"body": "Please use the water cooler on the 6th floor",
 	"link": "http://google.com"
 },{
@@ -10,4 +10,8 @@
 	"title": "JS Workshop Today",
 	"body": "Come improve your JavaScript skills",
 	"link": "http://jsconf.com"
+},{
+	"title": "Blog Posted",
+	"body": "Please read and clap",
+	"link": "http://medium.com/amanda"
 }]
